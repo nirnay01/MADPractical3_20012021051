@@ -14,6 +14,7 @@ class LoginActivity : AppCompatActivity() {
         binding = ActivityLoginBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+
         setSupportActionBar(binding.toolbar)
         //paste here
     }
